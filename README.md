@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/abdolah-yashar/abdolah-yashar/blob/main/animation" alt="Snake animation" />
+<img src="https://github.com/abdolah-yashar/abdolah-yashar/blob/main/mar.yml" alt="Snake animation" />
 
 ###
 
